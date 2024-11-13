@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+<<<<<<< Updated upstream
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-18.0.1.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+>>>>>>> Stashed changes
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1/com.jjjwelectronics"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1/com.tdc"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1/com.thelocalmarketplace.hardware"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1/powerutility"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1/simulation"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1.zip_expanded/com.thelocalmarketplace.hardware_0.1/com.jjjwelectronics"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1.zip_expanded/com.thelocalmarketplace.hardware_0.1/com.tdc"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1.zip_expanded/com.thelocalmarketplace.hardware_0.1/com.thelocalmarketplace.hardware"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1.zip_expanded/com.thelocalmarketplace.hardware_0.1/powerutility"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.hardware_0.1.zip_expanded/com.thelocalmarketplace.hardware_0.1/simulation"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.software/src"/>
+	<classpathentry kind="src" path="com.thelocalmarketplace.software.test/src"/>
+<<<<<<< Updated upstream
+	<classpathentry kind="output" path="com.thelocalmarketplace.hardware_0.1/bin"/>
+=======
+	<classpathentry kind="output" path="bin"/>
+>>>>>>> Stashed changes
+</classpath>
