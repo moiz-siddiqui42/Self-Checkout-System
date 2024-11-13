@@ -18,7 +18,7 @@ package com.thelocalmarketplace.software.test;
  * Cheshta Sharma - 30064538
  * Callum Bates - 30188601
  * Armughan Mustafa - 30154601
- * Connor Ell - 30073291
+ * Connor Eall - 30073291
  * Saif Farag - 30195046
  * Ivan Agalakov - 30172107
  * Samuel Turner - 10064857
